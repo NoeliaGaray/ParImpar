@@ -1,4 +1,4 @@
-rótulo.innerHTML = "Definir par o impar";
+rótulo.innerHTML = "Ingresar número: ";
 let número: number = Number(dato1.value);
 let divisor: number = 2;
 let división: number = número % divisor;
